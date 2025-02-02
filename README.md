@@ -1,3 +1,5 @@
+Newsapp - an app that gives you news from all around the world in different categories like sports , entertainment , general etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
