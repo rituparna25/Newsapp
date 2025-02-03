@@ -1,4 +1,4 @@
-Newsapp - an app that gives you news from all around the world in different categories like sports , entertainment , general etc.
+NewsMonkey - an app that gives you news from all around the world in different categories like sports , entertainment , general etc.
 
 # Getting Started with Create React App
 
